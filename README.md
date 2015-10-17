@@ -21,6 +21,6 @@ Alternatives
 
 Some much better Python IDEs:
 
-PyScripter (my favourite): https://github.com/pyscripter/pyscripter
-IEP: http://www.iep-project.org/
-Dr Python (also built in wxpython):http://drpython.sourceforge.net/
+- PyScripter (my favourite): https://github.com/pyscripter/pyscripter
+- IEP: http://www.iep-project.org/
+- Dr Python (also built in wxpython):http://drpython.sourceforge.net/
